@@ -1,12 +1,19 @@
-    [
+[
+  {
+    "name": "Quadratic equation",
+    "path": "jee/chapterwise/mains/NonPYQs/maths",
+    "importLink": "https://newtcbt.buildtopia.fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvY2hhcHRlcndpc2VxdWVzdGlvbnMvbWFpbi9KRUUvbWFpbnMvY2hhcHRlcndpc2UvTm9uUHlxcy9NYXRocy9RdWFkcmF0aWNfRXF1YXRpb25fRXhwb3J0Lm5ld3Q=",
+    "createdAt": "2024-05-10T12:00:00.000Z",
+    "creatorUsername": "jotarokujo",
+    "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocJIS5XWr6XibuzvBH68byIiz2lg4V35qnEeXDlrIiZ3Xo7Mbhe4=s96-c",
+    "syllabus": [
       {
-        "name": "Quadratic equation",
-        "path": "jee/chapterwise/mains/NonPYQs/maths",
-        "importLink": "https://newtcbt.buildtopia.
-  fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvY2hhcHRlcndpc2VxdWVzdGlvbnMvbWFpbi9KRUUvbWFpbnMvY2hhcHRlcndpc2UvTm9uUHlxcy9NYXRocy9RdWFkcmF
-  0aWNfRXF1YXRpb25fRXhwb3J0Lm5ld3Q=",
-        "createdAt": "2024-05-10T12:00:00.000Z",
-        "creatorUsername": "jotarokujo",
-        "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocJIS5XWr6XibuzvBH68byIiz2lg4V35qnEeXDlrIiZ3Xo7Mbhe4=s96-c"
+        "subject": "Mathematics",
+        "chapters": [
+          "Quadratic Equations"
+        ]
       }
     ]
+  }
+]
+
