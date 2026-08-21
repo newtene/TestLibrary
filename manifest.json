@@ -48,5 +48,32 @@
         ]
       }
     ]
+  },
+  {
+    "name": "Neet mock test 1",
+    "path": "neet/mock-tests",
+    "importLink": "https://newtcbt.buildtopia.fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9uZWV0L21vY2stdGVzdHMvTmVldF9Nb2NrX1Rlc3RfX18xX0V4cG9ydC5uZXd0",
+    "createdAt": "2026-08-21T17:45:00.000Z",
+    "creatorUsername": "anonymous person",
+    "syllabus": [
+      {
+        "subject": "Physics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Biology",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      }
+    ]
   }
 ]
