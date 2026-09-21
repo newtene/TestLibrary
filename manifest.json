@@ -2,7 +2,7 @@
   {
     "name": "Quadratic equation",
     "path": "jee/chapterwise/mains/NonPYQs/maths",
-    "importLink": "https://newtcbt.buildtopia.fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvY2hhcHRlcndpc2VxdWVzdGlvbnMvbWFpbi9KRUUvbWFpbnMvY2hhcHRlcndpc2UvTm9uUHlxcy9NYXRocy9RdWFkcmF0aWNfRXF1YXRpb25fRXhwb3J0Lm5ld3Q=",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvY2hhcHRlcndpc2VxdWVzdGlvbnMvbWFpbi9KRUUvbWFpbnMvY2hhcHRlcndpc2UvTm9uUHlxcy9NYXRocy9RdWFkcmF0aWNfRXF1YXRpb25fRXhwb3J0Lm5ld3Q=",
     "createdAt": "2024-05-10T12:00:00.000Z",
     "creatorUsername": "jotarokujo",
     "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocJIS5XWr6XibuzvBH68byIiz2lg4V35qnEeXDlrIiZ3Xo7Mbhe4=s96-c",
@@ -18,7 +18,7 @@
   {
     "name": "NEET Part Test 1",
     "path": "neet/part-tests",
-    "importLink": "https://newtcbt.buildtopia.fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9ORUVUX1BhcnRfVGVzdF8xX0V4cG9ydC5uZXd0",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9ORUVUX1BhcnRfVGVzdF8xX0V4cG9ydC5uZXd0",
     "createdAt": "2026-08-21T11:06:00.000Z",
     "creatorUsername": "anonymous person",
     "syllabus": [
@@ -51,7 +51,7 @@
   {
     "name": "Neet mock test 1",
     "path": "neet/mock-tests",
-    "importLink": "https://newtcbt.buildtopia.fun/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9uZWV0L21vY2stdGVzdHMvTmVldF9Nb2NrX1Rlc3RfX18xX0V4cG9ydC5uZXd0",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9uZWV0L21vY2stdGVzdHMvTmVldF9Nb2NrX1Rlc3RfX18xX0V4cG9ydC5uZXd0",
     "createdAt": "2026-08-21T17:45:00.000Z",
     "creatorUsername": "anonymous person",
     "syllabus": [
@@ -69,6 +69,90 @@
       },
       {
         "subject": "Biology",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JM Mock Test 1",
+    "path": "jee/mains/mock-tests",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9KRUUvbWFpbnMvTW9jayUyMFRlc3RzL0pNX01vY2tfVGVzdF8xX0V4cG9ydC5uZXd0",
+    "createdAt": "2026-09-19T00:00:00.000Z",
+    "creatorUsername": "mayank",
+    "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocID1Y1pOSap7iNf1JJQkPoj60yrsR6XxBcQEHRGv3jtqYQ3p8I=s96-c",
+    "syllabus": [
+      {
+        "subject": "Physics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Mathematics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JM Mock Test 2",
+    "path": "jee/mains/mock-tests",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9KRUUvbWFpbnMvTW9jayUyMFRlc3RzL0pNX01vY2tfVGVzdF8yX0V4cG9ydC5uZXd0",
+    "createdAt": "2026-09-20T00:00:00.000Z",
+    "creatorUsername": "mayank",
+    "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocID1Y1pOSap7iNf1JJQkPoj60yrsR6XxBcQEHRGv3jtqYQ3p8I=s96-c",
+    "syllabus": [
+      {
+        "subject": "Physics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Mathematics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "JM Mock Test 3",
+    "path": "jee/mains/mock-tests",
+    "importLink": "https://www.newtcbt.in/import?test=aHR0cHM6Ly9yYXcuZ2l0aHVidXNlcmNvbnRlbnQuY29tL25ld3RlbmUvVGVzdExpYnJhcnkvbWFpbi9KRUUvbWFpbnMvTW9jayUyMFRlc3RzL0pNX01vY2tfVGVzdF8zX0V4cG9ydC5uZXd0",
+    "createdAt": "2026-09-21T00:00:00.000Z",
+    "creatorUsername": "mayank",
+    "Creatorimg": "https://lh3.googleusercontent.com/a/ACg8ocID1Y1pOSap7iNf1JJQkPoj60yrsR6XxBcQEHRGv3jtqYQ3p8I=s96-c",
+    "syllabus": [
+      {
+        "subject": "Physics",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Chemistry",
+        "chapters": [
+          "Full Syllabus"
+        ]
+      },
+      {
+        "subject": "Mathematics",
         "chapters": [
           "Full Syllabus"
         ]
